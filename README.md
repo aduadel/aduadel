@@ -22,7 +22,7 @@
 <p align="center">
   <a href="https://www.youtube.com/watch?v=aUUwb2g_ZIw" target="_blank">
     <img
-      src="https://img.youtube.com/vi/aUUwb2g_ZIw/maxresdefault.jpg"
+      src="https://img.youtube.com/vi/aUUwb2g_ZIw/maxresdefault.jpg?0"
       alt="Intro Video"
       width="720"
     />
