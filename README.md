@@ -175,7 +175,7 @@
   <a href="https://github.com/aduadel" target="_blank">
     github.com/aduadel
   </a><br />
-  🇩🇪 Authorized to work in Germany
+  Authorized to work in Germany
 </p>
 
 
