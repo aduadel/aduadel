@@ -20,7 +20,8 @@
 <h3 align="center">Intro Video</h3>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=aUUwb2g_ZIw" target="_blank">
+  <a href="https://www.youtube.com/watch?v=aUUwb2g_ZIw" target="_blank"     target="_blank"
+    rel="noopener noreferrer">
     <img
       src="https://img.youtube.com/vi/aUUwb2g_ZIw/maxresdefault.jpg?0"
       alt="Intro Video"
