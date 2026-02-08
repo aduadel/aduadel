@@ -17,6 +17,19 @@
   I design automation systems, cloud-native backends, and production-ready architectures.
 </p>
 
+<h3 align="center">Intro Video</h3>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=aUUwb2g_ZIw" target="_blank">
+    <img
+      src="https://img.youtube.com/vi/aUUwb2g_ZIw/maxresdefault.jpg"
+      alt="Intro Video"
+      width="720"
+    />
+  </a>
+</p>
+
+
 <hr />
 
 <h3>Focus</h3>
